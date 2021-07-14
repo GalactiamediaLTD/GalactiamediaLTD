@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GalactiamediaLTD
+- 👀 I’m interested in Programing 
+- 🌱 I’m currently learning Java Script
+- 💞️ I’m looking to collaborate on .ahk script files
+- 📫 How to reach me: Email: alfie.leek2@gmail.com
