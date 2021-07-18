@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GalactiamediaLTD
+- 👋 Hi, I’m @GMediaHyperLTD
 - 👀 I’m interested in Programing 
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on .ahk script files
